@@ -1,0 +1,59 @@
+.body-bg {
+  background-color: beige;
+}
+/*navbar*/
+
+.navbar {
+  background-color: whitesmoke;
+}
+/*jumbotron css*/
+
+/*main content*/
+
+.top-row {
+  background-color: whitesmoke;
+}
+
+.bottom-row {
+  background-color: whitesmoke;
+}
+
+.big-banner{
+  background-image: url('../images/heropic2.jpg');
+  background-size: 100%;
+  background-color: whitesmoke;
+  height: 500px;
+}
+
+.cardContainer {
+  margin-bottom: 15px;
+  padding: 15px;
+}
+.card {
+  margin: 0 auto;
+  padding: 5px;
+}
+
+/* additional content */
+
+.card-rows{
+  background-color: whitesmoke;
+  height: 300px;
+}
+
+/* submission form */
+
+.submission-form {
+  background-color: whitesmoke;
+  height: 400px;
+}
+
+/*footer section*/
+.mainfooter{
+  background-color: whitesmoke;
+}
+.footer-logo {
+  background-size: 100%;
+  height: fit-content;
+  width: fit-content;
+}
